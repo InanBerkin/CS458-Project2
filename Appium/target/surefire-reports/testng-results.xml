@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-27T17:12:33 TRT" name="Default Suite" finished-at="2020-07-27T17:15:39 TRT" duration-ms="186198">
+    <groups>
+    </groups>
+    <test started-at="2020-07-27T17:12:33 TRT" name="Project2Test" finished-at="2020-07-27T17:15:39 TRT" duration-ms="186198">
+      <class name="IOSTest">
+        <test-method is-config="true" signature="globalSetup()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:12:33 TRT" name="globalSetup" finished-at="2020-07-27T17:12:33 TRT" duration-ms="570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:12:33 TRT" name="setUp" finished-at="2020-07-27T17:12:40 TRT" duration-ms="6948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shouldNavigateToTheStepWhenClickedOnTheButtonBar()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:12:40 TRT" name="shouldNavigateToTheStepWhenClickedOnTheButtonBar" finished-at="2020-07-27T17:12:50 TRT" duration-ms="9844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldNavigateToTheStepWhenClickedOnTheButtonBar -->
+        <test-method is-config="true" signature="after()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:12:50 TRT" name="after" finished-at="2020-07-27T17:12:55 TRT" duration-ms="4624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="shouldNotAcceptLifestyleInputsLessThan10Characters()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:12:55 TRT" name="shouldNotAcceptLifestyleInputsLessThan10Characters" finished-at="2020-07-27T17:13:39 TRT" duration-ms="44531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldNotAcceptLifestyleInputsLessThan10Characters -->
+        <test-method is-config="true" signature="after()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:13:39 TRT" name="after" finished-at="2020-07-27T17:13:44 TRT" duration-ms="4897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="shouldRememberPreviousValuesWhenTheUserReturns()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:13:44 TRT" name="shouldRememberPreviousValuesWhenTheUserReturns" finished-at="2020-07-27T17:13:52 TRT" duration-ms="7773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldRememberPreviousValuesWhenTheUserReturns -->
+        <test-method is-config="true" signature="after()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:13:52 TRT" name="after" finished-at="2020-07-27T17:13:57 TRT" duration-ms="4791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="shouldResetTheSurveyIfRetakeButtonIsPressed()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:13:57 TRT" name="shouldResetTheSurveyIfRetakeButtonIsPressed" finished-at="2020-07-27T17:14:35 TRT" duration-ms="38638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldResetTheSurveyIfRetakeButtonIsPressed -->
+        <test-method is-config="true" signature="after()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:14:35 TRT" name="after" finished-at="2020-07-27T17:14:40 TRT" duration-ms="4561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="shouldShowAnErrorMessageIfTheSelectedAgeIsLessThan13()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:14:40 TRT" name="shouldShowAnErrorMessageIfTheSelectedAgeIsLessThan13" finished-at="2020-07-27T17:14:51 TRT" duration-ms="11278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldShowAnErrorMessageIfTheSelectedAgeIsLessThan13 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:14:51 TRT" name="after" finished-at="2020-07-27T17:14:56 TRT" duration-ms="4553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="shouldShowFinishPageIfAllInputsAreValid()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:14:56 TRT" name="shouldShowFinishPageIfAllInputsAreValid" finished-at="2020-07-27T17:15:34 TRT" duration-ms="38027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldShowFinishPageIfAllInputsAreValid -->
+        <test-method is-config="true" signature="after()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:15:34 TRT" name="after" finished-at="2020-07-27T17:15:38 TRT" duration-ms="4632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:15:38 TRT" name="tearDown" finished-at="2020-07-27T17:15:39 TRT" duration-ms="1057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="globalTearDown()[pri:0, instance:IOSTest@31f9b85e]" started-at="2020-07-27T17:15:44 TRT" name="globalTearDown" finished-at="2020-07-27T17:15:44 TRT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalTearDown -->
+      </class> <!-- IOSTest -->
+    </test> <!-- Project2Test -->
+  </suite> <!-- Default Suite -->
+</testng-results>
