@@ -59,6 +59,14 @@ To run the tests execute,
 
 # Running React Native App Locally
 
+Install dependencies with
+
+`yarn` or `npm install`
+
+Run Expo
+
+`yarn start`
+
 # Possible Problems
 
 1. For devices:
