@@ -1,3 +1,5 @@
+package main.java;
+
 import com.github.javafaker.Faker;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.TouchAction;
@@ -30,10 +32,9 @@ public class AndroidTest extends BaseTest {
 
     @BeforeClass
     public void setUp() throws IOException, InterruptedException {
-
         final DesiredCapabilities capabilities = getAndroidCapabilities();
         driver = new AndroidDriver<MobileElement>(getServiceUrl(), capabilities);
-        driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(120, TimeUnit.SECONDS);
         faker = new Faker();
         wait = new WebDriverWait(driver, 120);
     }
@@ -159,7 +160,7 @@ public class AndroidTest extends BaseTest {
     }
 
     @Test
-    public void shouldRememberPreviousValuesWhenTheUserReturns() {
+    public void shouldRememberPreviousValuesWhenTheUserReturns() throws InterruptedException {
         final String name_value = faker.name().firstName();
         final String surname_value = faker.name().lastName();
         WebElement name = driver.findElementByAccessibilityId("name-input");
@@ -173,6 +174,7 @@ public class AndroidTest extends BaseTest {
         final WebElement step = wait
                 .until(ExpectedConditions.visibilityOf(driver.findElementByAccessibilityId("survey-step-0")));
         step.click();
+        Thread.sleep(2000);
 
         name = driver.findElementByAccessibilityId("name-input");
         surname = driver.findElementByAccessibilityId("surname-input");

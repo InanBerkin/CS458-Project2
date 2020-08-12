@@ -60,7 +60,7 @@ function Content() {
       age: new Date().getFullYear() - formData.birthdate.getFullYear() > 13,
       city: formData.city !== "",
       gender: formData.gender !== "",
-      lifestyle: formData.lifestyle.length > 10,
+      lifestyle: formData.lifestyle.length >= 10,
     };
   }, [formData]);
 

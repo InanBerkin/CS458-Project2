@@ -1,3 +1,5 @@
+package main.java;
+
 import com.github.javafaker.Faker;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.TouchAction;

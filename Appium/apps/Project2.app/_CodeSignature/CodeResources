@@ -50,7 +50,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		22H0XCdc6iuZ6rIpbj2O2kIsw60=
+		UwJxvkZKvXTyLzqX5W0JZ7x/OvI=
 		</data>
 		<key>ComodoCaLimitedRsaCertificationAuthority.der</key>
 		<data>
@@ -486,7 +486,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		PZZ9FNgmZqUhGvSCV7yAP79OzXA=
+		vMkNTBHbH8/80onSTzf2c6eLE/k=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -502,7 +502,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		zZtUGJsa/35e+6XxXXgTHr6273o=
+		Bn464kgyH83aCjfrOq86+T15siQ=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -510,7 +510,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		v1wmz2Ih7AFarmrr/FTz9CNk/8A=
+		7rbEcMpgA8JgeBo1VXVc4F7GQv0=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -1568,11 +1568,11 @@
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		IXtcCURy2BG/rR4o6oqPcxPc3+s=
+		kAwBiEBIxUBIkPxY4/2qw9KaGwU=
 		</data>
 		<key>LaunchScreen.nib</key>
 		<data>
-		pw5rv92833eWA4TR9Cp62RHChIg=
+		2VxCLdQ4DbzP6CvmgUcfYhI70DQ=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1726,11 +1726,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			22H0XCdc6iuZ6rIpbj2O2kIsw60=
+			UwJxvkZKvXTyLzqX5W0JZ7x/OvI=
 			</data>
 			<key>hash2</key>
 			<data>
-			xOBcaBzbCx2JiszNP+5uBnl3Z3auldkeQ6wOKkqkyNU=
+			r6jtkfuDkf+aXdJ10isqdqFEScn1TMMdf7u09wh8tNE=
 			</data>
 		</dict>
 		<key>ComodoCaLimitedRsaCertificationAuthority.der</key>
@@ -2408,11 +2408,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PZZ9FNgmZqUhGvSCV7yAP79OzXA=
+			vMkNTBHbH8/80onSTzf2c6eLE/k=
 			</data>
 			<key>hash2</key>
 			<data>
-			NgBpt+/MikABZ0/k/8UwTwhg1E32Pus+ngHCiYVi9Bw=
+			ycGwARQvoEWvtXN7MK4YfZxk4iAaBA0nwPxAdqeOpTs=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -2452,11 +2452,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zZtUGJsa/35e+6XxXXgTHr6273o=
+			Bn464kgyH83aCjfrOq86+T15siQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Lqri1MNknafwg+lCOPSviy+NxgikBVca7nlhO9a+zz8=
+			qo/IQ59jL5NeAYxaNagctjNhgh1pinYrEaSyQMhkYoo=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -2474,11 +2474,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v1wmz2Ih7AFarmrr/FTz9CNk/8A=
+			7rbEcMpgA8JgeBo1VXVc4F7GQv0=
 			</data>
 			<key>hash2</key>
 			<data>
-			q0hFUdBgFTZ8Uiozgc4Omb4teBrGcLYf9xC/Qtd6zqU=
+			3v2Nr6WtK3NKD+6lKKptAIFQfDzH92JTgpsskNEYnHU=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
@@ -4420,11 +4420,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pw5rv92833eWA4TR9Cp62RHChIg=
+			2VxCLdQ4DbzP6CvmgUcfYhI70DQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			E0TMgMihFLe2rBHOzpQpiV00wCD8xvQzRECUvbX9iBg=
+			FhB/HjSTbnLkJMxVEo3mWe2Ln+BbyyStMvsVgt8CoB8=
 			</data>
 		</dict>
 		<key>api.amplitude.com.der</key>

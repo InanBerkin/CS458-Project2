@@ -108,7 +108,7 @@ export default function CityPage({ handleChange, city, hasError }) {
         <Picker.Item
           key={"placeholder"}
           label={"Please select a city"}
-          value={null}
+          value={""}
         />
         {cities.map((city, id) => (
           <Picker.Item
